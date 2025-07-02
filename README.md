@@ -1,12 +1,49 @@
-# React + Vite
+# 📝 Stylish To-Do App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautifully styled To-Do List application built using **React**, **Vite**, and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ➕ Add new tasks
+- ✅ Mark tasks as completed
+- ✏️ Edit tasks with in-place editing
+- 🗑️ Delete tasks with a custom confirmation modal
+- 🎨 Stylish, animated, and responsive UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+| Tech         | Description                        |
+|--------------|------------------------------------|
+| React        | UI Library                         |
+| Vite         | Frontend build tool                |
+| Tailwind CSS | Utility-first CSS framework        |
+| JavaScript   | Logic & interactivity              |
+
+---
+
+### 1. Clone the Repo
+```bash
+git clone https://github.com/RohanM0205/todo-app.git
+cd todo-app
+
+
+💡 Folder Structure
+src/
+├── components/
+│   ├── AddToDo.jsx
+│   ├── Header.jsx
+│   ├── ToDoItem.jsx
+│   └── ToDoList.jsx
+├── App.jsx
+├── main.jsx
+└── index.css
+
+
+📄 License
+This project is open-source and free to use.
+
+
