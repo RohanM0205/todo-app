@@ -32,7 +32,7 @@ A beautifully styled To-Do List application built using **React**, **Vite**, and
 
 ---
 
-### 1. Clone the Repo
+ Clone the Repo
 ```bash
 git clone https://github.com/RohanM0205/todo-app.git
 cd todo-app
