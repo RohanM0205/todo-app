@@ -28,6 +28,8 @@ A beautifully styled To-Do List application built using **React**, **Vite**, and
 ## 📸 Screenshot
 ![image](https://github.com/user-attachments/assets/9ea88e43-20c4-4b38-8a0c-3a53ca14833f)
 
+![image](https://github.com/user-attachments/assets/74f82cbb-75eb-4f62-a48b-6f54cc30f1ec)
+
 ---
 
 ### 1. Clone the Repo
