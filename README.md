@@ -25,6 +25,15 @@ A beautifully styled To-Do List application built using **React**, **Vite**, and
 
 ---
 
+## 📦 Package Versions
+
+- **Tailwind CSS:** 3.4.3
+- **React:** 18.x
+- **Vite:** 4.x
+- **PostCSS:** 8.x
+- **Autoprefixer:** 10.x
+
+---
 ## 📸 Screenshot
 ![image](https://github.com/user-attachments/assets/9ea88e43-20c4-4b38-8a0c-3a53ca14833f)
 
