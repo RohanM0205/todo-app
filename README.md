@@ -25,6 +25,11 @@ A beautifully styled To-Do List application built using **React**, **Vite**, and
 
 ---
 
+## 📸 Screenshot
+![image](https://github.com/user-attachments/assets/9ea88e43-20c4-4b38-8a0c-3a53ca14833f)
+
+---
+
 ### 1. Clone the Repo
 ```bash
 git clone https://github.com/RohanM0205/todo-app.git
